@@ -7,8 +7,11 @@ import { NavController } from 'ionic-angular';
 })
 export class HomePage {
 
-  constructor(public navCtrl: NavController) {
 
+  showLoading:boolean = true;
+
+  constructor(public navCtrl: NavController) {
   }
+
 
 }
