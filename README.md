@@ -11,4 +11,6 @@ ionic serve
 
 ```
 
+![效果](https://github.com/wing505/loading/blob/master/src/assets/imgs/loadingdemo.gif)
+
 
